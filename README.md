@@ -22,8 +22,6 @@ A simple Delivery Management API built with Node.js and Express.js.
 ### POST /deliveries
 Create a delivery
 
-**Body:**
-```json
 {
   "pickup": "Location A",
   "drop": "Location B",
