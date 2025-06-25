@@ -13,7 +13,7 @@ A simple Delivery Management API built with Node.js and Express.js.
 
 ## Setup Instructions
 
-1. Clone the repo
+1. Clone the repo https://github.com/sandeepMasai/Basic-Delivery-API.git
 2. Run `npm install`
 3. Start the server: `node index.js`
 
